@@ -1,0 +1,6 @@
+Norway,Oslo,Gardermoen,15:30
+Norway,Bergen,Flesland,15:30
+England,London,Heathrow,14:30
+Qatar,Doha,Hamad International Airport,16:30
+India,Mumbai,Chattrapati Shivaji international airport,19:00
+Thailand,Bangkok,Suvarnabhumi airport,20:30
