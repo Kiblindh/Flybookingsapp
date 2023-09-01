@@ -1,0 +1,7 @@
+Username: kiblindh
+Email: kiblindh@gmail.com
+Price of ticket: 2000
+Balance after booking: 1000
+From: England, London, Heathrow
+To: Norway, Bergen, Flesland
+Date: 2023-04-14, Time: 19:00
